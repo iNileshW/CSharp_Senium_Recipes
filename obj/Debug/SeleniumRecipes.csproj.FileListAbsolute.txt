@@ -1,0 +1,57 @@
+C:\work\books\SeleniumRecipes\SeleniumRecipes\bin\Debug\SeleniumRecipes.dll
+C:\work\books\SeleniumRecipes\SeleniumRecipes\bin\Debug\SeleniumRecipes.pdb
+C:\work\books\SeleniumRecipes\SeleniumRecipes\bin\Debug\WebDriver.dll
+C:\work\books\SeleniumRecipes\SeleniumRecipes\bin\Debug\WebDriver.Support.dll
+C:\work\books\SeleniumRecipes\SeleniumRecipes\bin\Debug\WebDriver.xml
+C:\work\books\SeleniumRecipes\SeleniumRecipes\bin\Debug\WebDriver.Support.xml
+C:\work\books\SeleniumRecipes\SeleniumRecipes\obj\Debug\SeleniumRecipes.csprojResolveAssemblyReference.cache
+C:\work\books\SeleniumRecipes\SeleniumRecipes\obj\Debug\SeleniumRecipes.dll
+C:\work\books\SeleniumRecipes\SeleniumRecipes\obj\Debug\SeleniumRecipes.pdb
+C:\work\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\SeleniumRecipes.dll
+C:\work\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\SeleniumRecipes.pdb
+C:\work\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\WebDriver.dll
+C:\work\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\WebDriver.Support.dll
+C:\work\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\WebDriver.xml
+C:\work\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\WebDriver.Support.xml
+C:\work\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\obj\Debug\SeleniumRecipes.dll
+C:\work\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\obj\Debug\SeleniumRecipes.pdb
+C:\agileway\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\SeleniumRecipes.dll
+C:\agileway\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\SeleniumRecipes.pdb
+C:\agileway\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\WebDriver.dll
+C:\agileway\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\WebDriver.Support.dll
+C:\agileway\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\WebDriver.xml
+C:\agileway\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\bin\Debug\WebDriver.Support.xml
+C:\agileway\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\obj\Debug\SeleniumRecipes.dll
+C:\agileway\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\obj\Debug\SeleniumRecipes.pdb
+C:\work\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\obj\Debug\SeleniumRecipes.csprojResolveAssemblyReference.cache
+C:\agileway\books\SeleniumRecipes-C#\recipes\SeleniumRecipes\obj\Debug\SeleniumRecipes.csprojResolveAssemblyReference.cache
+C:\Users\Monicca2502\Downloads\Software\Selenium WebDriver Recipes in CSharp Second Edition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\SeleniumRecipes.dll.config
+C:\Users\Monicca2502\Downloads\Software\Selenium WebDriver Recipes in CSharp Second Edition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\SeleniumRecipes.dll
+C:\Users\Monicca2502\Downloads\Software\Selenium WebDriver Recipes in CSharp Second Edition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\SeleniumRecipes.pdb
+C:\Users\Monicca2502\Downloads\Software\Selenium WebDriver Recipes in CSharp Second Edition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.dll
+C:\Users\Monicca2502\Downloads\Software\Selenium WebDriver Recipes in CSharp Second Edition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.Support.dll
+C:\Users\Monicca2502\Downloads\Software\Selenium WebDriver Recipes in CSharp Second Edition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.xml
+C:\Users\Monicca2502\Downloads\Software\Selenium WebDriver Recipes in CSharp Second Edition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.Support.xml
+C:\Users\Monicca2502\Downloads\Software\Selenium WebDriver Recipes in CSharp Second Edition\9781484217412\selenium-recipes-source\SeleniumRecipes\obj\Debug\SeleniumRecipes.dll
+C:\Users\Monicca2502\Downloads\Software\Selenium WebDriver Recipes in CSharp Second Edition\9781484217412\selenium-recipes-source\SeleniumRecipes\obj\Debug\SeleniumRecipes.pdb
+C:\Users\Monicca2502\Downloads\Software\Selenium WebDriver Recipes in CSharp Second Edition\9781484217412\selenium-recipes-source\SeleniumRecipes\obj\Debug\SeleniumRecipes.csprojResolveAssemblyReference.cache
+C:\Users\Monicca2502\Downloads\Software\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\SeleniumRecipes.dll.config
+C:\Users\Monicca2502\Downloads\Software\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\SeleniumRecipes.dll
+C:\Users\Monicca2502\Downloads\Software\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\SeleniumRecipes.pdb
+C:\Users\Monicca2502\Downloads\Software\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.dll
+C:\Users\Monicca2502\Downloads\Software\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.Support.dll
+C:\Users\Monicca2502\Downloads\Software\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.xml
+C:\Users\Monicca2502\Downloads\Software\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.Support.xml
+C:\Users\Monicca2502\Downloads\Software\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\obj\Debug\SeleniumRecipes.csprojResolveAssemblyReference.cache
+C:\Users\Monicca2502\Downloads\Software\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\obj\Debug\SeleniumRecipes.dll
+C:\Users\Monicca2502\Downloads\Software\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\obj\Debug\SeleniumRecipes.pdb
+C:\Users\Monicca2502\Downloads\Software\Selenium\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\SeleniumRecipes.dll.config
+C:\Users\Monicca2502\Downloads\Software\Selenium\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\SeleniumRecipes.dll
+C:\Users\Monicca2502\Downloads\Software\Selenium\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\SeleniumRecipes.pdb
+C:\Users\Monicca2502\Downloads\Software\Selenium\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.dll
+C:\Users\Monicca2502\Downloads\Software\Selenium\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.Support.dll
+C:\Users\Monicca2502\Downloads\Software\Selenium\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.xml
+C:\Users\Monicca2502\Downloads\Software\Selenium\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\bin\Debug\WebDriver.Support.xml
+C:\Users\Monicca2502\Downloads\Software\Selenium\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\obj\Debug\SeleniumRecipes.csprojResolveAssemblyReference.cache
+C:\Users\Monicca2502\Downloads\Software\Selenium\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\obj\Debug\SeleniumRecipes.dll
+C:\Users\Monicca2502\Downloads\Software\Selenium\SeleniumWebDriverRecipesinCSharpSecondEdition\9781484217412\selenium-recipes-source\SeleniumRecipes\obj\Debug\SeleniumRecipes.pdb
